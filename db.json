@@ -1,0 +1,23 @@
+{
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"settingList": [{
+		"name": "football",
+		"appId": 10001,
+		"open": true
+	}],
+	"profile": {
+		"name": "typicode"
+	}
+}
