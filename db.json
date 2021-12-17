@@ -15,7 +15,7 @@
 	"settingList": [{
 		"name": "football",
 		"appId": 10001,
-		"open": true
+		"open": false
 	}],
 	"profile": {
 		"name": "typicode"
