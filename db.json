@@ -20,7 +20,7 @@
 		{
 			"name": "wallet",
 			"appId": 10002,
-			"open": true
+			"open": false
 		}
 	],
 	"profile": {
