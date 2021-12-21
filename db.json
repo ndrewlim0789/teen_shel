@@ -13,10 +13,16 @@
 		}
 	],
 	"settingList": [{
-		"name": "football",
-		"appId": 10001,
-		"open": false
-	}],
+			"name": "football",
+			"appId": 10001,
+			"open": false
+		},
+		{
+			"name": "wallet",
+			"appId": 10002,
+			"open": true
+		}
+	],
 	"profile": {
 		"name": "typicode"
 	}
