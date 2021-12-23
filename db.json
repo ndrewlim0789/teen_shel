@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
@@ -20,6 +20,11 @@
 		{
 			"name": "wallet",
 			"appId": 10002,
+			"open": false
+		},
+		{
+			"name": "business",
+			"appId": 10003,
 			"open": false
 		}
 	],
