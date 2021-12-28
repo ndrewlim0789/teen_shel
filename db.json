@@ -30,7 +30,7 @@
 		{
 			"name": "ball",
 			"appId": 10004,
-			"open": true
+			"open": false
 		}
 	],
 	"profile": {
