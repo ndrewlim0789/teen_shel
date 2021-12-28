@@ -1,7 +1,7 @@
 {
 	"posts": [{
 			"id": 1,
-			"title": "Post s1"
+			"title": "Post 1"
 		},
 		{
 			"id": 2,
@@ -30,7 +30,7 @@
 		{
 			"name": "ball",
 			"appId": 10004,
-			"open": false
+			"open": true
 		}
 	],
 	"profile": {
