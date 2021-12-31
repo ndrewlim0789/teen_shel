@@ -36,6 +36,11 @@
 			"name": "peker",
 			"appId": 10005,
 			"open": false
+		},
+		{
+			"name": "crypto",
+			"appId": 10006,
+			"open": false
 		}
 	],
 	"profile": {
