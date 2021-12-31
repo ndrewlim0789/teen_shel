@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
@@ -30,7 +30,7 @@
 		{
 			"name": "ball",
 			"appId": 10004,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "peker",
