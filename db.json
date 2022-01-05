@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post s2"
+			"title": "Post 2"
 		},
 		{
 			"id": 3,
@@ -35,7 +35,7 @@
 		{
 			"name": "wallpaper",
 			"appId": 10005,
-			"open": true
+			"open": false
 		},
 		{
 			"name": "crypto",
