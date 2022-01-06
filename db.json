@@ -41,6 +41,16 @@
 			"name": "crypto",
 			"appId": 10006,
 			"open": false
+		},
+		{
+			"name": "jifenqi",
+			"appId": 10007,
+			"open": true
+		},
+		{
+			"name": "sport",
+			"appId": 10008,
+			"open": true
 		}
 	],
 	"profile": {
