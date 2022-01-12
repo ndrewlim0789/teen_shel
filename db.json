@@ -18,7 +18,7 @@
 			"open": true
 		},
 		{
-			"name": "wallet",
+			"name": "com.xball.introduce",
 			"appId": 10002,
 			"open": false
 		},
