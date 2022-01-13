@@ -38,7 +38,7 @@
 			"open": false
 		},
 		{
-			"name": "crypto",
+			"name": "com.alphawallet.crypto",
 			"appId": 10006,
 			"open": true
 		},
