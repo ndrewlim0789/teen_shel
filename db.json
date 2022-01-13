@@ -20,7 +20,7 @@
 		{
 			"name": "com.xball.introduce",
 			"appId": 10002,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "business",
