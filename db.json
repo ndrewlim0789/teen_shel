@@ -28,7 +28,7 @@
 			"open": true
 		},
 		{
-			"name": "ball",
+			"name": "com.ball.football",
 			"appId": 10004,
 			"open": false
 		},
