@@ -51,6 +51,11 @@
 			"name": "sport",
 			"appId": 10008,
 			"open": false
+		},
+		{
+			"name": "com.myteam.information",
+			"appId": 10009,
+			"open": true
 		}
 	],
 	"profile": {
