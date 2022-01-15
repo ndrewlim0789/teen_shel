@@ -35,7 +35,7 @@
 		{
 			"name": "com.sport.ball",
 			"appId": 10005,
-			"open": true
+			"open": false
 		},
 		{
 			"name": "com.alphawallet.crypto",
