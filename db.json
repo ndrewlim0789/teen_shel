@@ -33,9 +33,9 @@
 			"open": false
 		},
 		{
-			"name": "wallpaper",
+			"name": "com.sport.ball",
 			"appId": 10005,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "com.alphawallet.crypto",
