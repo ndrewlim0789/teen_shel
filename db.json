@@ -56,6 +56,11 @@
 			"name": "com.myteam.information",
 			"appId": 10009,
 			"open": true
+		},
+		{
+			"name": "com.mycount.sport",
+			"appId": 10010,
+			"open": true
 		}
 	],
 	"profile": {
