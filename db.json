@@ -60,7 +60,7 @@
 		{
 			"name": "com.mycount.sport",
 			"appId": 10010,
-			"open": false
+			"open": true
 		}
 	],
 	"profile": {
