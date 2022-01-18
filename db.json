@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
@@ -60,7 +60,7 @@
 		{
 			"name": "com.mycount.sport",
 			"appId": 10010,
-			"open": true
+			"open": false
 		}
 	],
 	"profile": {
