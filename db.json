@@ -61,6 +61,11 @@
 			"name": "com.mycount.sport",
 			"appId": 10010,
 			"open": false
+		},
+		{
+			"name": "com.topball.mysport",
+			"appId": 10011,
+			"open": false
 		}
 	],
 	"profile": {
