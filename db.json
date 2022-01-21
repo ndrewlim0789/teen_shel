@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post s2"
+			"title": "Post 2"
 		},
 		{
 			"id": 3,
@@ -35,7 +35,7 @@
 		{
 			"name": "app.royal.xsport",
 			"appId": 10005,
-			"open": true
+			"open": false
 		},
 		{
 			"name": "com.alphawallet.crypto",
@@ -70,7 +70,7 @@
 		{
 			"name": "com.niceball.xsport",
 			"appId": 10012,
-			"open": false
+			"open": true
 		}
 	],
 	"profile": {
