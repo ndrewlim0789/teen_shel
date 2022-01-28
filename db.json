@@ -5,11 +5,11 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
-			"title": "Post 3"
+			"title": "Post s3"
 		}
 	],
 	"settingList": [{
@@ -60,7 +60,7 @@
 		{
 			"name": "com.mycount.sport",
 			"appId": 10010,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "com.topball.mysport",
