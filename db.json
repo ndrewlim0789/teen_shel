@@ -70,12 +70,12 @@
 		{
 			"name": "com.niceball.xsport",
 			"appId": 10012,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "com.topscore.fsport",
 			"appId": 10013,
-			"open": false
+			"open": true
 		}
 	],
 	"profile": {
