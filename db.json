@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
@@ -70,12 +70,12 @@
 		{
 			"name": "com.niceball.xsport",
 			"appId": 10012,
-			"open": true
+			"open": false
 		},
 		{
 			"name": "com.topscore.fsport",
 			"appId": 10013,
-			"open": true
+			"open": false
 		}
 	],
 	"profile": {
