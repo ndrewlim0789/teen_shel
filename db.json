@@ -65,7 +65,7 @@
 		{
 			"name": "com.topball.mysport",
 			"appId": 10011,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "com.niceball.xsport",
