@@ -30,7 +30,7 @@
 		{
 			"name": "com.ball.football",
 			"appId": 10004,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "app.royal.xsport",
@@ -45,7 +45,7 @@
 		{
 			"name": "xm.gp.jifenqi",
 			"appId": 10007,
-			"open": false
+			"open": true
 		},
 		{
 			"name": "sport",
