@@ -9,7 +9,7 @@
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
@@ -18,9 +18,9 @@
 			"open": true
 		},
 		{
-			"name": "com.digital.virtual",
+			"name": "com.digital.mywallet",
 			"appId": 10002,
-			"open": true
+			"open": false
 		},
 		{
 			"name": "app.digital.awallet",
