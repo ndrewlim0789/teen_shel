@@ -9,7 +9,7 @@
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
@@ -87,7 +87,7 @@
 			"name": "com.myball.luckywin",
 			"appId": 10013,
 			"open": true,
-			"url": "http://www.luckywin.com.gh"
+			"url": "https://www.luckywin.com.gh/#/home"
 		}
 	],
 	"profile": {
