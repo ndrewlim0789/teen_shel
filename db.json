@@ -9,23 +9,26 @@
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
 			"name": "football",
 			"appId": 10001,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "com.digital.mywallet",
 			"appId": 10002,
-			"open": false
+			"open": false,
+			"url": ""
 		},
 		{
 			"name": "app.digital.awallet",
 			"appId": 10003,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "com.ball.football",
@@ -35,47 +38,56 @@
 		{
 			"name": "app.royal.xsport",
 			"appId": 10005,
-			"open": false
+			"open": false,
+			"url": ""
 		},
 		{
 			"name": "com.alphawallet.crypto",
 			"appId": 10006,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "xm.gp.jifenqi",
 			"appId": 10007,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "sport",
 			"appId": 10008,
-			"open": false
+			"open": false,
+			"url": ""
 		},
 		{
 			"name": "com.myteam.information",
 			"appId": 10009,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "com.mycount.sport",
 			"appId": 10010,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "com.topball.mysport",
 			"appId": 10011,
-			"open": false
+			"open": false,
+			"url": ""
 		},
 		{
 			"name": "com.niceball.xsport",
 			"appId": 10012,
-			"open": true
+			"open": true,
+			"url": ""
 		},
 		{
 			"name": "com.myball.luckywin",
 			"appId": 10013,
-			"open": true
+			"open": true,
+			"url": ""
 		}
 	],
 	"profile": {
