@@ -86,7 +86,7 @@
 		{
 			"name": "com.myball.luckywin",
 			"appId": 10013,
-			"open": true,
+			"open": false,
 			"url": ""
 		}
 	],
