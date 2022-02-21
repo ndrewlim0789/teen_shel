@@ -13,9 +13,9 @@
 		}
 	],
 	"settingList": [{
-			"name": "football",
+			"name": "com.goodloan.app",
 			"appId": 10001,
-			"open": true,
+			"open": false,
 			"url": ""
 		},
 		{
