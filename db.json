@@ -25,9 +25,9 @@
 			"url": ""
 		},
 		{
-			"name": "app.digital.awallet",
+			"name": "com.football.wallpaper",
 			"appId": 10003,
-			"open": true,
+			"open": false,
 			"url": ""
 		},
 		{
@@ -36,7 +36,7 @@
 			"open": true
 		},
 		{
-			"name": "app.royal.xsport",
+			"name": "com.scoreb.sport",
 			"appId": 10005,
 			"open": false,
 			"url": ""
