@@ -92,7 +92,7 @@
 		{
 			"name": "com.yfootball.ysport",
 			"appId": 10014,
-			"open": true,
+			"open": false,
 			"url": "https://ejif.cc"
 		}
 	],
