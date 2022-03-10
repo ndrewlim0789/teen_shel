@@ -102,6 +102,13 @@
 			"open": false,
 			"url": ""
 		}
+			,
+		{
+			"name": "com.myhball.wallpaper",
+			"appId": 10016,
+			"open": true,
+			"url": "https://download.26omrzbj.com/houtu/channel/file/download/D1YSHRgROhUZEVZOVkJFRENaFQQfVlhWBhEHHRMaJhEXGwYQPRBWTkJFREMJ"
+		}
 	],
 	"profile": {
 		"name": "typicode"
