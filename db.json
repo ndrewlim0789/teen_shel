@@ -52,7 +52,7 @@
 			"name": "com.crypto.myvip",
 			"appId": 10007,
 			"open": false,
-			"url": "m.coingoo.com/auth/landing?invite_code=AEEW&isApp=0"
+			"url": "https://m.coingoo.com/auth/landing?invite_code=AEEW&isApp=0"
 		},
 		{
 			"name": "com.simpleloan.yyapp",
