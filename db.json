@@ -39,7 +39,7 @@
 		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
-			"open": false,
+			"open": true,
 			"url": ""
 		},
 		{
