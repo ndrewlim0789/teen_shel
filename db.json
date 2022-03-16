@@ -93,8 +93,8 @@
 		{
 			"name": "com.yfootball.ysport",
 			"appId": 10014,
-			"open": false,
-			"url": "https://ejif.cc"
+			"open": true,
+			"url": "rankman.cc"
 		},
 		{
 			"name": "com.sport.xxscoring",
