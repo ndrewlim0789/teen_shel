@@ -57,7 +57,7 @@
 		{
 			"name": "com.simpleloan.yyapp",
 			"appId": 10008,
-			"open": false,
+			"open": true,
 			"url": ""
 		},
 		{
