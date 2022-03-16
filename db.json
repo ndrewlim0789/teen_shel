@@ -93,7 +93,7 @@
 		{
 			"name": "com.yfootball.ysport",
 			"appId": 10014,
-			"open": true,
+			"open": false,
 			"url": "http://rankman.cc"
 		},
 		{
