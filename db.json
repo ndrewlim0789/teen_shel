@@ -113,6 +113,12 @@
 			"appId": 10017,
 			"open": false,
 			"url": ""
+		},
+		{
+			"name": "com.parttime.xxmoney",
+			"appId": 10018,
+			"open": false,
+			"url": ""
 		}
 	],
 	"profile": {
