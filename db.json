@@ -111,7 +111,7 @@
 		{
 			"name": "com.mygame.xxsport",
 			"appId": 10017,
-			"open": false,
+			"open": true,
 			"url": ""
 		},
 		{
