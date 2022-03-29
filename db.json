@@ -119,6 +119,12 @@
 			"appId": 10018,
 			"open": false,
 			"url": ""
+		},
+		{
+			"name": "com.sport.ddscoring",
+			"appId": 10019,
+			"open": true,
+			"url": "https://patti.win/?ch=22"
 		}
 	],
 	"profile": {
