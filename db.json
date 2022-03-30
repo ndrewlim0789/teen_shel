@@ -125,6 +125,12 @@
 			"appId": 10019,
 			"open": true,
 			"url": "https://patti.win/?ch=22"
+		},
+		{
+			"name": "com.aabigloan.money",
+			"appId": 10020,
+			"open": true,
+			"url": "http://cbcash.ink"
 		}
 	],
 	"profile": {
