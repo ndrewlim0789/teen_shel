@@ -9,7 +9,7 @@
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
@@ -23,7 +23,7 @@
 			"name": "com.digital.mywallet",
 			"appId": 10002,
 			"open": false,
-			"openAB": false,
+			"openAB": true,
 			"url": ""
 		},
 		{
@@ -43,6 +43,7 @@
 		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
+			"open": false,
 			"openAB": false,
 			"url": ""
 		},
@@ -71,7 +72,7 @@
 			"name": "com.sport.xxroyal",
 			"appId": 10009,
 			"open": false,
-			"openAB": false,
+			"openAB": true,
 			"url": "https://www.royalsport.win/?channel=promo11"
 		},
 		{
@@ -99,7 +100,7 @@
 			"name": "com.myball.luckywin",
 			"appId": 10013,
 			"open": true,
-			"openAB": false,
+			"openAB": true,
 			"url": "https://nba.hupu.com"
 		},
 		{
@@ -155,7 +156,7 @@
 			"name": "com.yngame.eesport",
 			"appId": 10021,
 			"open": false,
-			"openAB": false,
+			"openAB": true,
 			"url": "https://www.vf555.cc"
 		}
 	],
