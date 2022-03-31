@@ -9,133 +9,153 @@
 		},
 		{
 			"id": 3,
-			"title": "Post 3"
+			"title": "Post s3"
 		}
 	],
 	"settingList": [{
 			"name": "com.goodloan.app",
 			"appId": 10001,
 			"open": true,
+			"openAB": false,
 			"url": "http://cbcash.ink"
 		},
 		{
 			"name": "com.digital.mywallet",
 			"appId": 10002,
 			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.myfootball.wallpaper",
 			"appId": 10003,
 			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.ball.football",
 			"appId": 10004,
 			"open": true,
+			"openAB": false,	
 			"url": ""
 		},
 		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
-			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.alphawallet.crypto",
 			"appId": 10006,
 			"open": true,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.crypto.myvip",
 			"appId": 10007,
 			"open": false,
+			"openAB": false,
 			"url": "https://m.coingoo.com/auth/landing?invite_code=AEEW&isApp=0"
 		},
 		{
 			"name": "com.simpleloan.yyapp",
 			"appId": 10008,
 			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.sport.xxroyal",
 			"appId": 10009,
 			"open": false,
+			"openAB": false,
 			"url": "https://www.royalsport.win/?channel=promo11"
 		},
 		{
 			"name": "com.mycount.sport",
 			"appId": 10010,
 			"open": true,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.topball.mysport",
 			"appId": 10011,
 			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.niceball.xsport",
 			"appId": 10012,
 			"open": true,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.myball.luckywin",
 			"appId": 10013,
 			"open": true,
+			"openAB": false,
 			"url": "https://nba.hupu.com"
 		},
 		{
 			"name": "com.yfootball.ysport",
 			"appId": 10014,
 			"open": false,
+			"openAB": false,
 			"url": "http://rankman.cc"
 		},
 		{
 			"name": "com.sport.xxscoring",
 			"appId": 10015,
 			"open": false,
+			"openAB": false,
 			"url": "https://patti.win/?ch=21"
 		},
 		{
 			"name": "com.myhball.wallpaper",
 			"appId": 10016,
 			"open": false,
+			"openAB": false,
 			"url": "https://ejif.cc"
 		},
 		{
 			"name": "com.mygame.xxsport",
 			"appId": 10017,
 			"open": true,
+			"openAB": false,
 			"url": "https://www.vf555.cc"
 		},
 		{
 			"name": "com.parttime.yymoney",
 			"appId": 10018,
 			"open": false,
+			"openAB": false,
 			"url": ""
 		},
 		{
 			"name": "com.sport.ddscoring",
 			"appId": 10019,
 			"open": true,
+			"openAB": false,
 			"url": "https://patti.win/?ch=22"
 		},
 		{
 			"name": "com.aabigloan.money",
 			"appId": 10020,
 			"open": true,
+			"openAB": false,
 			"url": "http://cbcash.ink"
 		},
 		{
 			"name": "com.yngame.eesport",
 			"appId": 10021,
 			"open": true,
+			"openAB": false,
 			"url": "https://www.vf555.cc"
 		}
 	],
