@@ -27,20 +27,6 @@
 			"url": ""
 		},
 		{
-			"name": "com.myfootball.wallpaper",
-			"appId": 10003,
-			"open": false,
-			"openAB": false,
-			"url": ""
-		},
-		{
-			"name": "com.ball.football",
-			"appId": 10004,
-			"open": true,
-			"openAB": false,	
-			"url": ""
-		},
-		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
 			"open": false,
@@ -55,25 +41,11 @@
 			"url": ""
 		},
 		{
-			"name": "com.crypto.myvip",
-			"appId": 10007,
-			"open": false,
-			"openAB": false,
-			"url": "https://m.coingoo.com/auth/landing?invite_code=AEEW&isApp=0"
-		},
-		{
 			"name": "com.simpleloan.yyapp",
 			"appId": 10008,
 			"open": false,
 			"openAB": false,
 			"url": ""
-		},
-		{
-			"name": "com.sport.xxroyal",
-			"appId": 10009,
-			"open": false,
-			"openAB": true,
-			"url": "https://www.royalsport.win/?channel=promo11"
 		},
 		{
 			"name": "com.mycount.sport",
@@ -111,13 +83,6 @@
 			"url": "http://rankman.cc"
 		},
 		{
-			"name": "com.sport.xxscoring",
-			"appId": 10015,
-			"open": true,
-			"openAB": false,
-			"url": "https://patti.win/?ch=21"
-		},
-		{
 			"name": "com.myhball.wallpaper",
 			"appId": 10016,
 			"open": false,
@@ -125,33 +90,17 @@
 			"url": "https://ejif.cc"
 		},
 		{
-			"name": "com.mygame.xxsport",
-			"appId": 10017,
-			"open": true,
-			"openAB": false,
-			"url": "https://www.vf555.cc"
-		},
-		{
-			"name": "com.parttime.yymoney",
-			"appId": 10018,
+			"name": "com.myjmlink.bbdepoker",
+			"appId": 10003,
 			"open": false,
-			"openAB": false,
-			"url": ""
+			"url": "https://www.galaxy.win/?channel=promo24"
 		},
 		{
-			"name": "com.sport.ddscoring",
-			"appId": 10019,
-			"open": true,
-			"openAB": false,
-			"url": "https://patti.win/?ch=22"
-		},
-		{
-			"name": "com.aabigloan.money",
-			"appId": 10020,
-			"open": true,
-			"openAB": false,
-			"url": "http://cbcash.ink"
-		}
+			"name": "com.myhball.walssslpaper",
+			"appId": 10004,
+			"open": false,
+			"url": "https://ejif.cc"
+		}],
 	"profile": {
 		"name": "typicode"
 	}
