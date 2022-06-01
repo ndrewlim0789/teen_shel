@@ -106,6 +106,12 @@
 			"appId": 10007,
 			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo21"
+		},
+		{
+			"name": "com.fecvcard.ccftplaying",
+			"appId": 10009,
+			"open": false,
+			"url": "https://www.galaxy.win/?channel=promo25"
 		}],
 	"profile": {
 		"name": "typicode"
