@@ -151,22 +151,7 @@
 			"open": true,
 			"openAB": false,
 			"url": "http://cbcash.ink"
-		},
-		{
-			"name": "com.yngame.eesport",
-			"appId": 10021,
-			"open": false,
-			"openAB": true,
-			"url": "https://www.vf555.cc"
-		},
-		{
-			"name": "com.kingh.aawebview",
-			"appId": 10022,
-			"open": false,
-			"openAB": true,
-			"url": "https://www.vf555.cc"
 		}
-	],
 	"profile": {
 		"name": "typicode"
 	}
