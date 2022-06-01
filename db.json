@@ -98,7 +98,7 @@
 		{
 			"name": "com.sepoker.ttjhmycham",
 			"appId": 10004,
-			"open": true,
+			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo13"
 		}],
 	"profile": {
