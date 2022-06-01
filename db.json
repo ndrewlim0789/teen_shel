@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post s2"
+			"title": "Post 2"
 		},
 		{
 			"id": 3,
@@ -104,7 +104,7 @@
 		{
 			"name": "com.pokergojm.rrcfplay",
 			"appId": 10007,
-			"open": true,
+			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo21"
 		},
 		{
