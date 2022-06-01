@@ -112,6 +112,18 @@
 			"appId": 10009,
 			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo25"
+		},
+		{
+			"name": "com.myxxpoker.ddxggame",
+			"appId": 10015,
+			"open": false,
+			"url": "https://www.galaxy.win/?channel=promo23"
+		},
+		{
+			"name": "com.xakingoker.eesgcard",
+			"appId": 10017,
+			"open": false,
+			"url": "https://www.galaxy.win/?channel=promo26"
 		}],
 	"profile": {
 		"name": "typicode"
