@@ -110,7 +110,7 @@
 		{
 			"name": "com.fecvcard.ccftplaying",
 			"appId": 10009,
-			"open": false,
+			"open": true,
 			"url": "https://www.galaxy.win/?channel=promo25"
 		},
 		{
