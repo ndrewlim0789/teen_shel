@@ -5,7 +5,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Post s2"
+			"title": "Post 2"
 		},
 		{
 			"id": 3,
@@ -122,7 +122,7 @@
 		{
 			"name": "com.xakingoker.eesgcard",
 			"appId": 10017,
-			"open": true,
+			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo26"
 		}],
 	"profile": {
