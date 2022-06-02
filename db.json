@@ -9,7 +9,7 @@
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
@@ -104,7 +104,7 @@
 		{
 			"name": "com.pokergojm.rrcfplay",
 			"appId": 10007,
-			"open": true,
+			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo21"
 		},
 		{
