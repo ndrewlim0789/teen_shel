@@ -122,7 +122,7 @@
 		{
 			"name": "com.xakingoker.eesgcard",
 			"appId": 10017,
-			"open": false,
+			"open": true,
 			"url": "https://www.galaxy.win/?channel=promo26"
 		}],
 	"profile": {
