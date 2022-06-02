@@ -5,11 +5,11 @@
 		},
 		{
 			"id": 2,
-			"title": "Post s2"
+			"title": "Post 2"
 		},
 		{
 			"id": 3,
-			"title": "Post s3"
+			"title": "Post 3"
 		}
 	],
 	"settingList": [{
@@ -116,7 +116,7 @@
 		{
 			"name": "com.myxxpoker.ddxggame",
 			"appId": 10015,
-			"open": true,
+			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo23"
 		},
 		{
