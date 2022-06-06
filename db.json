@@ -127,7 +127,7 @@
 		{
 			"name": "com.quickrunning.sportrabbit",
 			"appId": 10001,
-			"open": false,
+			"open": true,
 			"url": "https://www.bsport.live/"
 		}
 	],
