@@ -124,6 +124,12 @@
 			"appId": 10017,
 			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo26"
+		},
+		{
+			"name": "com.ousilink.ffuipoker",
+			"appId": 10018,
+			"open": false,
+			"url": "https://www.galaxy.win/?channel=promo19"
 		}],
 	"profile": {
 		"name": "typicode"
