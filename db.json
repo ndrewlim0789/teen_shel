@@ -13,13 +13,6 @@
 		}
 	],
 	"settingList": [{
-			"name": "com.goodloan.app",
-			"appId": 10001,
-			"open": true,
-			"openAB": false,
-			"url": "http://cbcash.ink"
-		},
-		{
 			"name": "com.digital.mywallet",
 			"appId": 10002,
 			"open": false,
@@ -130,7 +123,13 @@
 			"appId": 10018,
 			"open": false,
 			"url": "https://www.galaxy.win/?channel=promo19"
-		}],
+		},
+		{
+			"name": "com.quickrunning.sportrabbit",
+			"appId": 10001,
+			"open": false,
+			"url": "https://www.bsport.live/"
+		},],
 	"profile": {
 		"name": "typicode"
 	}
