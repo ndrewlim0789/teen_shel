@@ -22,7 +22,7 @@
 		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
-			"open": false,
+			"open": true,
 			"openAB": false,
 			"url": "https://nba.hupu.com"
 		},
