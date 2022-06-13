@@ -22,9 +22,9 @@
 		{
 			"name": "com.scorebb.ssport",
 			"appId": 10005,
-			"open": true,
-			"openAB": true,
-			"url": "https://goolge.com"
+			"open": false,
+			"openAB": false,
+			"url": "https://nba.hupu.com"
 		},
 		{
 			"name": "com.alphawallet.crypto",
