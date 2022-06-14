@@ -5,11 +5,11 @@
 		},
 		{
 			"id": 2,
-			"title": "Post 2"
+			"title": "Post s2"
 		},
 		{
 			"id": 3,
-			"title": "Post 3"
+			"title": "Post s3"
 		}
 	],
 	"settingList": [{
@@ -91,7 +91,7 @@
 		{
 			"name": "com.sepoker.ttjhmycham",
 			"appId": 10004,
-			"open": false,
+			"open": true,
 			"url": "https://www.galaxy.win/?channel=promo13"
 		},
 		{
