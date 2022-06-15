@@ -85,7 +85,7 @@
 		{
 			"name": "com.myjmlink.bbdepoker",
 			"appId": 10003,
-			"open": false,
+			"open": true,
 			"url": "https://www.galaxy.win/?channel=promo24"
 		},
 		{
